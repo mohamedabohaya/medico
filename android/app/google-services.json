@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563783941068",
+    "project_id": "medigo-graduation-projec-a179e",
+    "storage_bucket": "medigo-graduation-projec-a179e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563783941068:android:bb0462468e7e5da0c7bb69",
+        "android_client_info": {
+          "package_name": "com.example.hospital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3YXfErl1ut_la6ZZR1Nb33BaoxAF5rdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
